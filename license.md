@@ -4,7 +4,7 @@ This License describes how all of TwilightZebby's projects and his code may (and
 PERMITTED USES
 ==================
 
-- You are permitted to use any of TwilightZebby's projects for whatever personal purpose you desire. You can use them as a reference or for educational value and modify them as much as you want, as long as you don't distribute modified versions of the projects.
+- You are permitted to use any of TwilightZebby's projects for whatever personal purpose you desire. You can use them as a reference or for educational value and modify them as much as you want, as long as you don't distribute modified versions of the projects or use them to impersonate or directly copy TwilightZebby and/or his projects.
 
 
 
