@@ -1,4 +1,4 @@
-This License describes how all of TwilightZebby's projects and his code may (and, conversely, may not) by used. This License is subject to change by TwilightZebby at his SOLE DISCRETION at any time. This License was last altered on March 23, 2023.
+This License describes how all of TwilightZebby's projects and his code may (and, conversely, may not) by used. This License is subject to change by TwilightZebby at his SOLE DISCRETION at any time. This License was last altered on February 9th, 2024.
 
 
 PERMITTED USES
@@ -15,9 +15,9 @@ PROHIBITED USES
 
 - You are forbidden to reupload, republish, or redistribute any modified version of any of TwilightZebby's projects on its own.
 
-- All parties (including indivduals, companies, organizations, and any other groups), without explicit written permission from TwilightZebby, are expressly forbidden from using any of TwilightZebby's projects, properties, code, and other works, as part of a training dataset for artificial intelligence, neural networks, or any other generative systems. Additionally, any and all code, and all other projects or products (digitial or physical), created and owned by TwilightZebby, may not be used to configure, test, debug, or augment any artificial intelligence, neural network, or other generative system.
+- All parties (including indivduals, companies, organizations, and any other groups), without explicit written permission from TwilightZebby, are expressly forbidden from using any of TwilightZebby's projects, properties, code, and other works, as part of a training dataset for artificial intelligence, neural networks, large language models ("LLMs") or any other generative systems. Additionally, any and all code, and all other projects or products (digitial or physical), created and owned by TwilightZebby, may not be used to configure, test, debug, or augment any artificial intelligence, neural network, large language models, or other generative system.
   * This prohibition applies even if the resulting system does not store, refer to or directly call from code or other works owned by TwilightZebby.
-  * In short: You are banned from using anything created by TwilightZebby as part of any AI project.
+  * In short: You are banned from using anything created by TwilightZebby as part of any AI or LLM project.
 
 
 
@@ -31,4 +31,4 @@ EXEMPTIONS
 OFFICIAL PERMISSION
 ========================
 
-- It should be assumed that, given TwilightZebby holds full copyright over his projects, that any part of this License can be overridden on an individual basis with the permission of TwilightZebby. TwilightZebby reseves the right to create and distribute modified versions of these projects at any time, for any reason, whether personal or comissioned.
+- It should be assumed that, given TwilightZebby holds full copyright over his projects, that any part of this License can be overridden on an individual basis with the permission of TwilightZebby. TwilightZebby reseves the right to create and distribute modified versions of these projects at any time, for any reason, whether personal or commissioned.
